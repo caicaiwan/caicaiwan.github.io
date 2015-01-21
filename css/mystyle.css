@@ -1,0 +1,8 @@
+body,
+section,form,
+header,ul,li,
+input,botton,img,h1,h2{
+    margin:10px;
+    padding:6px;
+    border:2px solid red;
+}
